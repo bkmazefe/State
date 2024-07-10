@@ -1,2 +1,2 @@
 # State
-State management module written by @bkmazefe. Inspired from Elttob's States in Fusion Library.
+State management module for luau. Inspired from Elttob's States in Fusion Library.
