@@ -2,7 +2,7 @@
 --[[
 	State management module written by @bkmazefe. Inspired from Elttob's States in Fusion Library.
 ]]
-local Promise = require(script.Parent.Parent.Parent.Promise)
+local Promise = require(game.ReplicatedStorage.Packages.Promise)
 
 local State = {}
 State.__index = State
